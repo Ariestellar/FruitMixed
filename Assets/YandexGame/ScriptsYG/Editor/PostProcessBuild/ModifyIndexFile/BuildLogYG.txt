@@ -1,0 +1,2 @@
+Build path: D:/MyProject/StonksYandexGames/Builds/FruitMix
+Build number: 176
